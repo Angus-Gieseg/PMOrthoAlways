@@ -1,3 +1,6 @@
+# This is an editted version of the original PMOrtho which instead of needing to hold down shift or similar key to activate the Ortho, it is on by default, and shift will turn it off.
+
+
 # Leaflet PMOrtho: Adds Ortho mode (45° steps) to Polyline, Polygon and Rectangle while shift holding
 This is a [Leaflet Geoman](https://github.com/geoman-io/leaflet-geoman) Subplugin 
 
